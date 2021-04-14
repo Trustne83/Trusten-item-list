@@ -133,12 +133,6 @@
 		"defname": "Shell_HighExplosive"
 	},
 	{
-		"abr": "hoopstonering",
-		"price": 67,
-		"category": "Recreation",
-		"defname": "HoopstoneRing"
-	},
-	{
 		"abr": "incendiaryshell",
 		"price": 125,
 		"category": "Mortar shells",
